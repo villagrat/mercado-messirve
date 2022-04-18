@@ -1,0 +1,23 @@
+{
+  "name": "mercado-messirve",
+  "version": "1.0.0",
+  "description": "e-commerce App built using MongoDB, Express.js, React, Node.js (MERN stack) and Redux",
+  "main": "index.js",
+  "scripts": {
+    "server": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villagrat/mercado-messirve.git"
+  },
+  "keywords": [],
+  "author": "Tomas Villagra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villagrat/mercado-messirve/issues"
+  },
+  "homepage": "https://github.com/villagrat/mercado-messirve#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
